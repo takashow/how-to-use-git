@@ -1,3 +1,5 @@
-git clone -b <branch> <remote_repo> ��¡ָ���ֿ�<remote_repo>��<branch>��֧
+git clone -b <branch> <remote_repo> 克隆指定仓库<remote_repo>的<branch>分支
 
-git clone <remote_repo>  ������Ĭ�Ͽ�¡master��֧
+git clone <remote_repo>  该命令默认克隆master分支
+
+变成UTF-8编码！
